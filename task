@@ -1,3 +1,35 @@
+1.
+
+Difference between statically typed and dynamically typed languages:
+
+Statically Typed Languages:
+The languages in which if the data type of the variable is known at the time of compilation, it is called statically typed language.
+All the variables should be declared before they are used. Some of the statically typed languages are
+Java, C, C++.
+As the errors are checked in the compilation phase itself, run time errors are minimized.
+
+Dynamically Typed languages:
+The languages in which data type of the variable is not declared and assigned run time values are called
+Dynamically typed languages. Variables need not be declared before and hence programming time is reduced. 
+Some of the Dynamically typed languages are Javascript, Python.
+Probability of getting errors is high in these languages.
+
+
+2. 
+Scripting Languages and Programming languages:
+Scripting languages:
+These languages which are used to bring the codes to runtime environment.
+They are used to create dynamic web applications.
+All scripting languages are programming languages.
+These donot need compilation step. Example: Java Script.
+
+Programming languages:
+These languages are used to communicate with the computer.
+They are used to write programming languages.
+All programming languages are not scripting languages. Example: C
+These require a compilation step before execution.
+
+3.
 Programming Paradigms:
 A programming paradigm is a style, or “way,” of programming.
 •	Imperative: Programming with an explicit sequence of commands that update state.
